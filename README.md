@@ -7,7 +7,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22 y 
 
 ### Descripción
 
-La ```ESP32``` la utilizamos en un entorno de adquisición de datos, lo cual en esta práctica ocuparemos un sensor (```DTH22```) para adquirir los datos de temperatura y humedad del entorno y una pantalla LCD para poder visualizar los datos leídos por dicho sensor.  Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
+La ```ESP32``` la utilizamos en un entorno de adquisición de datos, en esta práctica ocuparemos un sensor (```DTH22```) para adquirir los datos de temperatura y humedad del entorno y una pantalla LCD para poder visualizar los datos leídos por dicho sensor.  Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
 
 
 ## Material Necesario
@@ -89,7 +89,7 @@ lcd.print("wokwi Online IoT");
 
 ## Resultados
 
-Cuando haya funcionado, verás los valores dentro del monitor serial y la pantalla LCD como se muestra en la siguente imagen.
+Al iniciar la simulacion, verás los valores dentro del monitor serial y la pantalla LCD como se muestra en la siguente imagen.
 
 ![](https://github.com/Ricardoramosdelapaz/DHT22-CON-LCD/blob/main/res.PNG?raw=true).
 
