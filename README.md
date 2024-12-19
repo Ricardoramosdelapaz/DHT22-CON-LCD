@@ -1,7 +1,7 @@
 # DHT22-CON-LCD
 
 # Practica ESP32 con DHT22 y LCD
-Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22 y una pantalla LCD que nos muestre la información recibida por el sensor ESP32.
+Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22 y una pantalla LCD que nos muestre la información recibida por el sensor DHT22.
 
 ## Introducción
 
