@@ -91,7 +91,7 @@ lcd.print("wokwi Online IoT");
 
 Cuando haya funcionado, verás los valores dentro del monitor serial y la pantalla LCD como se muestra en la siguente imagen.
 
-![](https://github.com/Ricardoramosdelapaz/PracticaDHT/blob/main/resultado.PNG?raw=true)
+![](https://github.com/Ricardoramosdelapaz/DHT22-CON-LCD/blob/main/res.PNG?raw=true).
 
 
 
