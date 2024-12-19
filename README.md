@@ -75,7 +75,7 @@ lcd.print("wokwi Online IoT");
 -  **DHT sensor library for ESPx**
 - **LiquidCrystal I2C**
 
-![](https://github.com/Ricardoramosdelapaz/PracticaDHT/blob/main/DTH.PNG?raw=true)
+![](https://github.com/Ricardoramosdelapaz/DHT22-CON-LCD/blob/main/Captura%20lib.PNG?raw=true).
 
 3. Hacer la conexion de **DHT2** con la **ESP32** y la pantalla LCD como se muestra en la siguiente imagen.
 
